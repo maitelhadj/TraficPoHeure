@@ -1,0 +1,5 @@
+name: TraficPOHeure
+author: TeamOfTheDead
+version: 1.0.0
+website: https://helysio.fr
+main: fr.helysio.traficpoheure.TraficPOHeure
